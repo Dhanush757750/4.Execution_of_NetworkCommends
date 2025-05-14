@@ -31,5 +31,30 @@ net stat:
 ![alt text](<Screenshot 2025-05-14 104315.png>)
 
 ipconfig:
+![alt text](<Screenshot 2025-05-14 105422.png>)
+
+ping:
+![alt text](<Screenshot 2025-05-14 105751.png>)
+
+tracet:
+![alt text](<Screenshot 2025-05-14 110211.png>)
+
+nslookup :
+![alt text](<Screenshot 2025-05-14 110358.png>)
+
+getmac :
+![alt text](<Screenshot 2025-05-14 110534.png>)
+
+hostname :
+![alt text](<Screenshot 2025-05-14 111112.png>)
+
+nbtstat :
+![alt text](<Screenshot 2025-05-14 111249.png>)
+
+arp :
+![alt text](<Screenshot 2025-05-14 111501.png>)
+
+systeminfo :
+![alt text](<Screenshot 2025-05-14 111640.png>)
 ## Result
 Thus Execution of Network commands Performed 
