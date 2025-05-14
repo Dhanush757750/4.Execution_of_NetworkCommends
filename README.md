@@ -27,6 +27,9 @@ This commands includes
 <BR>
 
 ## Output
+net stat:
+![alt text](<Screenshot 2025-05-14 104315.png>)
 
+ipconfig:
 ## Result
 Thus Execution of Network commands Performed 
